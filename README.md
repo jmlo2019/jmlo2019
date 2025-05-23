@@ -1,5 +1,10 @@
-# Desarrollador Web (PHP)👋
+# Development Web (PHP)👋
 
+Hello! I´m Juan Ma, a development web oriented to PHP.
+  - Symfony
+  - React
+  - SQL
+  - Nginx
 <!--
 **jmlo2019/jmlo2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
